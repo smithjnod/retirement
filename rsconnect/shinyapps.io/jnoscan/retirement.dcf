@@ -1,0 +1,12 @@
+name: retirement
+title:
+username:
+account: jnoscan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 253281
+bundleId: 1160019
+url: https://jnoscan.shinyapps.io/retirement/
+when: 1514972027.66021
+asMultiple: FALSE
+asStatic: FALSE
